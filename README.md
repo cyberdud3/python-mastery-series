@@ -30,7 +30,7 @@ Project Plan: Develop a Movie Recommendation System. ( basic )
 
 | DAY | TOPIC | TASK | ANSWER |
 | ------ | ------ | ------ | ------ |
-| 1 | [Installation and Set up](https://medium.com/@cyberdud3/day-1-of-python-mastery-series-installation-and-setup-10fff32f354c) | [Find your task](https://github.com/cyberdud3/python-mastery-series/blob/master/Day-01-Install-and-setup-Python/assignment.MD) | [Click Here](https://github.com/cyberdud3/python-mastery-series/blob/master/Day-01-Install-and-setup-Python/answer-with-explanation.MD) |
+| 1 | [Installation and Set up](https://medium.com/@cyberdud3/day-1-of-python-mastery-series-installation-and-setup-10fff32f354c) | [Find your task](https://github.com/cyberdud3/python-mastery-series/blob/master/Day-01-Installation-and-Set-up/assignment.MD) | [Click Here](https://github.com/cyberdud3/python-mastery-series/blob/master/Day-01-Install-and-setup-Python/answer-with-explanation.MD) |
 | 2 | [Basic data types, variables, and operators]() | coming soon.... | [Click Here](#) |
 | 3 | [Control Flow and Loops]() | coming soon.... | [Click Here](#) |
 | 4 | [Functions and Modules]() | coming soon.... | [Click Here](#) |
