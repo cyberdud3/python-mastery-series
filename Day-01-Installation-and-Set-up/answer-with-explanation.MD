@@ -1,4 +1,4 @@
-[Home](../README.md) | [<< Task](./assignment.MD)
+[Home](../README.md) | [Task >>](./assignment.MD)
 
 # Day 1 Task: Introduction to Python and Installing Python
 
