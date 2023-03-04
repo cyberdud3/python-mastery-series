@@ -18,7 +18,7 @@
 
 </div>
 
-[Home](../README.md) | [<< Prev Day](../README.md) | [Next Day >>](#)
+[Home](../README.md) | [<< Prev Task](../README.md) | [Next task >>](#)
 
 <div>
     <a target="_blank" href="https://medium.com/@cyberdud3/day-1-of-python-mastery-series-installation-and-setup-10fff32f354c">
