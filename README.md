@@ -6,17 +6,14 @@
 
 <div align="center">
     <h1> Python Mastery: A 100-Day Journey to Becoming a Skilled Programmer] </h1>
-    
     <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/abhijith-sudhakar/">
         <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
     </a>
     <a class="header-badge" target="_blank" href="https://twitter.com/cyberdud3_/">
         <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
     </a>
-
-<sub>Author: <a href="https://www.linkedin.com/in/abhijith-sudhakar/" target="_blank">Abhijith Sudhakar</a><br>
-<small> February, 2023 </small></sub>
-
+    <sub>Author: <a href="https://www.linkedin.com/in/abhijith-sudhakar/" target="_blank">Abhijith Sudhakar</a><br>
+    <small> February, 2023 </small></sub>
 </div>
 
 ##  Week 1 - Python Basics
