@@ -10,11 +10,18 @@
         <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
     </a>
     <a class="header-badge" target="_blank" href="https://twitter.com/cyberdud3_/">
-        <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/cyberdud3_?style=social">
+        <img alt="Twitter Follow" src="https://img.shields.io/badge/style--5eba00.svg?label=Twitter&logo=twitter&style=social">
+    </a>
+    <a class="header-badge" target="_blank" href="https://medium.com/@cyberdud3/subscribe/">
+        <img alt="Medium Subscribe" src="https://img.shields.io/badge/style--5eba00.svg?label=Medium&logo=medium&style=social">
+    </a>
+    <a class="header-badge" target="_blank" href="https://github.com/cyberdud3">
+        <img alt="Github Follow" src="https://img.shields.io/badge/style--5eba00.svg?label=Github&logo=github&style=social">
     </a>
 
 <sub>Author: <a href="https://www.linkedin.com/in/abhijith-sudhakar/" target="_blank">Abhijith Sudhakar</a><br>
 <small> February, 2023 </small></sub>
+
 </div>
 
 ##  Week 1 - Python Basics
