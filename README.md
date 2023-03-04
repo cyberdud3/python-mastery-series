@@ -30,11 +30,11 @@ Project Plan: Develop a Movie Recommendation System. ( basic )
 
 | DAY | TOPIC | TASK | ANSWER |
 | ------ | ------ | ------ | ------ |
-| 1 | [Installation and Set up](https://medium.com/@cyberdud3/day-1-of-python-mastery-series-installation-and-setup-10fff32f354c) | [Find your task](https://github.com/cyberdud3/python-mastery-series/blob/master/Day-01-Installation-and-Set-up/assignment.MD) | [Click Here](https://github.com/cyberdud3/python-mastery-series/blob/master/Day-01-Installation-and-Set-up/answer-with-explanation.MD) |
-| 2 | [Basic data types, variables, and operators]() | coming soon.... | [Click Here](#) |
-| 3 | [Control Flow and Loops]() | coming soon.... | [Click Here](#) |
-| 4 | [Functions and Modules]() | coming soon.... | [Click Here](#) |
-| 5 | [File Handling]() | coming soon.... | [Click Here](#) |
+| 1 | [Installation and Set up](https://medium.com/@cyberdud3/day-1-of-python-mastery-series-installation-and-setup-10fff32f354c) | [Find your task here](https://github.com/cyberdud3/python-mastery-series/blob/master/Day-01-Installation-and-Set-up/assignment.MD) | [Click here for Solution](https://github.com/cyberdud3/python-mastery-series/blob/master/Day-01-Installation-and-Set-up/answer-with-explanation.MD) |
+| 2 | [Basic data types, variables, and operators](https://medium.com/@cyberdud3/day-2-of-python-mastery-series-understanding-basic-data-types-variables-and-operators-2dbfb9347ad5) | [Find your task here](https://github.com/cyberdud3/python-mastery-series/blob/master/Day-02-Basic-data-types-variables-and-operators/assignment.MD) | [Click here for Solution]([#](https://github.com/cyberdud3/python-mastery-series/blob/master/Day-02-Basic-data-types-variables-and-operators/answer-with-explanation.MD)) |
+| 3 | [Control Flow and Loops]() | coming soon.... | [Click here for Solution](#) |
+| 4 | [Functions and Modules]() | coming soon.... | [Click here for Solution](#) |
+| 5 | [File Handling]() | coming soon.... | [Click here for Solution](#) |
 
 ## Week 2 - Object-Oriented Programming with Python
 
@@ -42,8 +42,8 @@ Project Plan: Develop a Movie Recommendation System. ( using OOP concept )
 
 | DAY | TOPIC | TASK | ANSWER |
 | ------ | ------ | ------ | ------ |
-| 6 | [Exception Handling and Debugging](#) | coming soon.... | [Click Here](#) |
-| 7 | [Intro to OOP in Python: Classes & Objects]() | coming soon.... | [Click Here](#) |
-| 8 | [Inheritance and Polymorphism]() | coming soon.... | [Click Here](#) |
-| 9 | [Encapsulation and Abstraction]() | coming soon.... | [Click Here](#) |
-| 10 | [Advanced OOP Concepts]() | coming soon.... | [Click Here](#) |
+| 6 | [Exception Handling and Debugging](#) | coming soon.... | [Click here for Solution](#) |
+| 7 | [Intro to OOP in Python: Classes & Objects]() | coming soon.... | [Click here for Solution](#) |
+| 8 | [Inheritance and Polymorphism]() | coming soon.... | [Click here for Solution](#) |
+| 9 | [Encapsulation and Abstraction]() | coming soon.... | [Click here for Solution](#) |
+| 10 | [Advanced OOP Concepts]() | coming soon.... | [Click here for Solution](#) |
