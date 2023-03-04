@@ -34,5 +34,5 @@ This task involves installing Python and an IDE, setting up a project folder, an
 - Step 2: Install an IDE
 - Step 3: Set up a project folder
 - Step 4: Print a welcome message to the console
-- 
+
 ## [Solution](https://github.com/cyberdud3/python-mastery-series/blob/master/Day-01-Installation-and-Set-up/answer-with-explanation.MD)
