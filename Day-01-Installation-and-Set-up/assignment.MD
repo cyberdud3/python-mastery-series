@@ -20,8 +20,8 @@
 
 <ul style="list-style-type: none; margin: 0; padding: 0; overflow: hidden; background-color: #333;">
     <li style="float: left; border-right:1px solid #bbb;"><a class="active" href="#home">Home</a></li>
-    <li style="float:right"><a href="../README.md">Day 2</a></li>
-    <li style="float:right"><a href="#">Day 0</a></li>
+    <li style="float: left; border-right:1px solid #bbb;"><a href="../README.md">Day 2</a></li>
+    <li style="float: left; border-right:1px solid #bbb;"><a href="#">Day 0</a></li>
 </ul>
 
 <div>
