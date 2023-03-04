@@ -22,7 +22,7 @@
 
 <div>
     <a target="_blank" href="https://medium.com/@cyberdud3/day-1-of-python-mastery-series-installation-and-setup-10fff32f354c">
-        <img align="middle" width="100%"  src="../images/Installation-and-Set-up.jpg" />
+        <img align="middle" width="100%"  src="./images/Installation-and-Set-up.jpg" />
     </a>
 </div>
 
