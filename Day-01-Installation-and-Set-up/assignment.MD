@@ -19,10 +19,10 @@
 </div>
 
 [Home](#) | [<< Day 0](../README.md) | [Day 2 >>](#)
-
+<div>
 <div style="text-align: right"> your-text-here </div>
 <div style="text-align: right"> your-text-here </div>
-<div style="text-align: right"> your-text-here </div>
+<div style="text-align: right"> your-text-here </div></div>
 
 <div>
     <a target="_blank" href="https://medium.com/@cyberdud3/day-1-of-python-mastery-series-installation-and-setup-10fff32f354c">
