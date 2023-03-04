@@ -1,3 +1,5 @@
+[Home](../README.md) | [<< Task](./assignment.MD)
+
 # Day 1 Task: Introduction to Python and Installing Python
 
 This task involves installing Python and an IDE, setting up a project folder, and creating a Python file named `movie_recommendation.py` with a welcome message printed to the console.
