@@ -6,4 +6,4 @@ Project Plan: Simple Calculator
 
 | DAY | TOPIC | TASK | ANSWER |
 | ------ | ------ | ------ | ------ |
-| 1 | [Installation and Set up](https://medium.com/@cyberdud3/day-1-of-python-mastery-series-installation-and-setup-10fff32f354c) | Install and set up Python <br/> Type some Markdown on the left | [Click here](#) |
+| 1 | [Installation and Set up](https://medium.com/@cyberdud3/day-1-of-python-mastery-series-installation-and-setup-10fff32f354c) | Install and set up Python <br/> [Find a suitable IDE and Configure Python](#) <br/> Print a "Hello World" | [Click here](https://github.com/cyberdud3/python-mastery-series/blob/master/answers-with-explanation/task%201.MD) |
