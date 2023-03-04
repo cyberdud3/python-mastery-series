@@ -12,8 +12,8 @@
     <a class="header-badge" target="_blank" href="https://twitter.com/cyberdud3_/">
         <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
     </a>
-    <sub>Author: <a href="https://www.linkedin.com/in/abhijith-sudhakar/" target="_blank">Abhijith Sudhakar</a><br>
-    <small> February, 2023 </small></sub>
+<sub>Author: <a href="https://www.linkedin.com/in/abhijith-sudhakar/" target="_blank">Abhijith Sudhakar</a><br>
+<small> February, 2023 </small></sub>
 </div>
 
 ##  Week 1 - Python Basics
