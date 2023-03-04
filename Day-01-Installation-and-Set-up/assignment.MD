@@ -18,7 +18,17 @@
 
 </div>
 
-[<< Day 0](../README.md) | [Day 2 >>](#)
+<ul style="list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;">
+  <li><a class="active" href="#home">Home</a></li>
+  <li style="float:right"><a href="../README.md">Day 2</a></li>
+  <li style="float:right"><a href="#">Day 0</a></li>
+</ul>
+
+[<< Day 0](../README.md) | [Day 2 >>](#) <div style="text-align: right"> your-text-here </div>
 
 <div>
     <a target="_blank" href="https://medium.com/@cyberdud3/day-1-of-python-mastery-series-installation-and-setup-10fff32f354c">
