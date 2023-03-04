@@ -35,4 +35,4 @@ This task involves creating variables to store user's name and age, movie genres
 - Step 3: Create variables to store movie genres and a list of movies under each genre
 - Step 4: Use operators such as + and * to manipulate strings
 
-## [Solution](https://github.com/cyberdud3/python-mastery-series/blob/master/Day-01-Installation-and-Set-up/answer-with-explanation.MD)
+## [Solution](https://github.com/cyberdud3/python-mastery-series/blob/master/Day-02-Basic-data-types-variables-and-operators/answer-with-explanation.MD)
