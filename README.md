@@ -1,6 +1,6 @@
 <div>
     <a target="_blank" href="https://medium.com/@cyberdud3/python-mastery-a-100-day-journey-to-becoming-a-skilled-programmer-684ac32591ee">
-        <img align="middle" width="100%"  src="./images/Python-Mastery-A -100-Day-Journey-to-becoming-a-Skilled-Programmer.jpg" />
+        <img align="middle" width="100%"  src="Python-Mastery-A-100-Day-Journey-to-becoming-a-Skilled-Programmer.jpg" />
     </a>
 </div>
 
