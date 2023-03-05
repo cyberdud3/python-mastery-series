@@ -18,7 +18,7 @@
 
 </div>
 
-[Home](../README.md) | [<< Prev Task](../Day-02-Basic-data-types-variables-and-operators/assignment.MD) | [Next task >>](#)
+[Home](../README.md) | [<< Prev Task](../Day-02-Basic-data-types-variables-and-operators/assignment.MD) | [Next task >>](../Day-04-Functions-and-Modules/assignment.MD)
 
 <div>
     <a target="_blank" href="https://medium.com/@cyberdud3/day-3-of-python-mastery-series-control-flow-and-loops-1e6110b77f6f">
