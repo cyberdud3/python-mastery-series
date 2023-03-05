@@ -30,9 +30,9 @@ Project Plan: Develop a Movie Recommendation System. ( basic )
 
 | DAY | TOPIC | TASK | ANSWER |
 | ------ | ------ | ------ | ------ |
-| 1 | [Installation and Set up](https://medium.com/@cyberdud3/day-1-of-python-mastery-series-installation-and-setup-10fff32f354c) | [Find your task here](https://github.com/cyberdud3/python-mastery-series/blob/master/Day-01-Installation-and-Set-up/assignment.MD) | [Click here for Solution](https://github.com/cyberdud3/python-mastery-series/blob/master/Day-01-Installation-and-Set-up/answer-with-explanation.MD) |
-| 2 | [Understanding Basic data types, variables, and operators](https://medium.com/@cyberdud3/day-2-of-python-mastery-series-understanding-basic-data-types-variables-and-operators-2dbfb9347ad5) | [Find your task here](https://github.com/cyberdud3/python-mastery-series/blob/master/Day-02-Basic-data-types-variables-and-operators/assignment.MD) | [Click here for Solution](https://github.com/cyberdud3/python-mastery-series/blob/master/Day-02-Basic-data-types-variables-and-operators/answer-with-explanation.MD) |
-| 3 | [Control Flow and Loops]() | coming soon.... | [Click here for Solution](#) |
+| 1 | [Installation and Set up](https://medium.com/@cyberdud3/day-1-of-python-mastery-series-installation-and-setup-10fff32f354c) | [Find your task here](./Day-01-Installation-and-Set-up/assignment.MD) | [Click here for Solution](./Day-01-Installation-and-Set-up/answer-with-explanation.MD) |
+| 2 | [Understanding Basic data types, variables, and operators](https://medium.com/@cyberdud3/day-2-of-python-mastery-series-understanding-basic-data-types-variables-and-operators-2dbfb9347ad5) | [Find your task here](./Day-02-Basic-data-types-variables-and-operators/assignment.MD) | [Click here for Solution](./Day-02-Basic-data-types-variables-and-operators/answer-with-explanation.MD) |
+| 3 | [Control Flow and Loops](https://medium.com/@cyberdud3/day-3-of-python-mastery-series-control-flow-and-loops-1e6110b77f6f) | [Find your task here](./Day-03-Control-Flow-and-Loops/assignment.MD) | [Click here for Solution](./Day-03-Control-Flow-and-Loops/answer-with-explanation.MD) |
 | 4 | [Functions and Modules]() | coming soon.... | [Click here for Solution](#) |
 | 5 | [File Handling]() | coming soon.... | [Click here for Solution](#) |
 
