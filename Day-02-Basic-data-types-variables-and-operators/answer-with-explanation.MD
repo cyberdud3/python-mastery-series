@@ -6,7 +6,7 @@ This task involves creating variables to store user's name and age, movie genres
 
 ## Step 1: Create variables to store user's name and age
 
-- Open the 'movie_recommendation.py' file in your IDE or text editor
+- Open the `movie_recommendation.py` file in your IDE or text editor
 - Create two variables to store the user's name and age:
     ```
     name = "Cyberdud3"
