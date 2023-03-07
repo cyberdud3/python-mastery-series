@@ -33,7 +33,7 @@ Project Plan: Develop a Movie Recommendation System. ( basic )
 | 1 | [Installation and Set up](https://medium.com/@cyberdud3/day-1-of-python-mastery-series-installation-and-setup-10fff32f354c) | [Find your task here](./Day-01-Installation-and-Set-up/assignment.MD) | [Click here for Solution](./Day-01-Installation-and-Set-up/answer-with-explanation.MD) |
 | 2 | [Understanding Basic data types, variables, and operators](https://medium.com/@cyberdud3/day-2-of-python-mastery-series-understanding-basic-data-types-variables-and-operators-2dbfb9347ad5) | [Find your task here](./Day-02-Basic-data-types-variables-and-operators/assignment.MD) | [Click here for Solution](./Day-02-Basic-data-types-variables-and-operators/answer-with-explanation.MD) |
 | 3 | [Control Flow and Loops](https://medium.com/@cyberdud3/day-3-of-python-mastery-series-control-flow-and-loops-1e6110b77f6f) | [Find your task here](./Day-03-Control-Flow-and-Loops/assignment.MD) | [Click here for Solution](./Day-03-Control-Flow-and-Loops/answer-with-explanation.MD) |
-| 4 | [Functions and Modules](https://medium.com/@cyberdud3/day-4-of-python-mastery-series-functions-and-modules-a-delicious-way-to-organize-your-code-384e6d7dd5e6) | [Find your task here](./Day-04-Functions-and-Modules/assignment.MD) | [Click here for Solution](#) |
+| 4 | [Functions and Modules](https://medium.com/@cyberdud3/day-4-of-python-mastery-series-functions-and-modules-a-delicious-way-to-organize-your-code-384e6d7dd5e6) | [Find your task here](./Day-04-Functions-and-Modules/assignment.MD) | [Click here for Solution](./Day-04-Functions-and-Modules/answer-with-explanation.MD) |
 | 5 | [File Handling]() | coming soon.... | [Click here for Solution](#) |
 
 ## Week 2 - Object-Oriented Programming with Python
