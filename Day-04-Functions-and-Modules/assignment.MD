@@ -21,7 +21,7 @@
 [Home](../README.md) | [<< Prev Task](../Day-03-Control-Flow-and-Loops/assignment.MD) | [Next task >>](../Day-05-File-Handling/assignment.MD)
 
 <div>
-    <a target="_blank" href="https://medium.com/@cyberdud3/day-3-of-python-mastery-series-control-flow-and-loops-1e6110b77f6f">
+    <a target="_blank" href="https://medium.com/@cyberdud3/day-4-of-python-mastery-series-functions-and-modules-a-delicious-way-to-organize-your-code-384e6d7dd5e6">
         <img align="middle" width="100%"  src="../images/Functions-and-Modules.jpg" />
     </a>
 </div>
