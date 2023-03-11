@@ -24,26 +24,62 @@
 
 </div>
 
-##  Week 1 - Python Basics
-
-Project Plan: Develop a Movie Recommendation System. ( basic )
+## Week 1 - Python Basics and Syntax
 
 | DAY | TOPIC | TASK | ANSWER |
 | ------ | ------ | ------ | ------ |
-| 1 | [Installation and Set up](https://medium.com/@cyberdud3/day-1-of-python-mastery-series-installation-and-setup-10fff32f354c) | [Find your task here](./Day-01-Installation-and-Set-up/assignment.MD) | [Click here for Solution](./Day-01-Installation-and-Set-up/answer-with-explanation.MD) |
-| 2 | [Understanding Basic data types, variables, and operators](https://medium.com/@cyberdud3/day-2-of-python-mastery-series-understanding-basic-data-types-variables-and-operators-2dbfb9347ad5) | [Find your task here](./Day-02-Basic-data-types-variables-and-operators/assignment.MD) | [Click here for Solution](./Day-02-Basic-data-types-variables-and-operators/answer-with-explanation.MD) |
-| 3 | [Control Flow and Loops](https://medium.com/@cyberdud3/day-3-of-python-mastery-series-control-flow-and-loops-1e6110b77f6f) | [Find your task here](./Day-03-Control-Flow-and-Loops/assignment.MD) | [Click here for Solution](./Day-03-Control-Flow-and-Loops/answer-with-explanation.MD) |
-| 4 | [Functions and Modules](https://medium.com/@cyberdud3/day-4-of-python-mastery-series-functions-and-modules-a-delicious-way-to-organize-your-code-384e6d7dd5e6) | [Find your task here](./Day-04-Functions-and-Modules/assignment.MD) | [Click here for Solution](./Day-04-Functions-and-Modules/answer-with-explanation.MD) |
-| 5 | [File Handling]() | coming soon.... | [Click here for Solution](#) |
+| 01 | [Introduction to Python and Installing Python](#) | coming soon.... | coming soon.... |
+| 02 | [Variables and Data Types](#) | coming soon.... | coming soon.... |
+| 03 | [Operators and Expressions](#) | coming soon.... | coming soon.... |
+| 04 | [Conditional Statements](#) | coming soon.... | coming soon.... |
+| 05 | [Loops](#) | coming soon.... | coming soon.... |
 
-## Week 2 - Object-Oriented Programming with Python
-
-Project Plan: Develop a Movie Recommendation System. ( using OOP concept )
+## Week 2 - Data Structures and Input/Output Operations
 
 | DAY | TOPIC | TASK | ANSWER |
 | ------ | ------ | ------ | ------ |
-| 6 | [Exception Handling and Debugging](#) | coming soon.... | [Click here for Solution](#) |
-| 7 | [Intro to OOP in Python: Classes & Objects]() | coming soon.... | [Click here for Solution](#) |
-| 8 | [Inheritance and Polymorphism]() | coming soon.... | [Click here for Solution](#) |
-| 9 | [Encapsulation and Abstraction]() | coming soon.... | [Click here for Solution](#) |
-| 10 | [Advanced OOP Concepts]() | coming soon.... | [Click here for Solution](#) |
+| 06 | [Lists and Tuples](#) | coming soon.... | coming soon.... |
+| 07 | [Dictionaries](#) | coming soon.... | coming soon.... |
+| 08 | [Sets](#) | coming soon.... | coming soon.... |
+| 09 | [Input and Output](#) | coming soon.... | coming soon.... |
+
+## Week 3 - Control Flow, Error Handling, and Tooling in Python
+
+| DAY | TOPIC | TASK | ANSWER |
+| ------ | ------ | ------ | ------ |
+| 10 | [Functions](#) | coming soon.... | coming soon.... |
+| 11 | [Modules and Packages](#) | coming soon.... | coming soon.... |
+| 12 | [File Handling](#) | coming soon.... | coming soon.... |
+| 13 | [Exceptions Handling](#) | coming soon.... | coming soon.... |
+| 14 | [Debugging](#) | coming soon.... | coming soon.... |
+| 15 | [Virtual Environments](#) | coming soon.... | coming soon.... |
+| 16 | [Regular Expressions](#) | coming soon.... | coming soon.... |
+
+## Week 4 - Object-Oriented Programming in Python
+
+| DAY | TOPIC | TASK | ANSWER |
+| ------ | ------ | ------ | ------ |
+| 17 | [Intro to Object-Oriented Programming (OOP)](#) | coming soon.... | coming soon.... |
+| 18 | [Classes and Objects](#) | coming soon.... | coming soon.... |
+| 19 | [Inheritance and Polymorphism](#) | coming soon.... | coming soon.... |
+| 20 | [Encapsulation and Abstraction](#) | coming soon.... | coming soon.... |
+
+## Week 5 - Advanced Python Concepts and Libraries
+
+| DAY | TOPIC | TASK | ANSWER |
+| ------ | ------ | ------ | ------ |
+| 21 | [Advanced Data Types - named tuples, counters, deques](#) | coming soon.... | coming soon.... |
+| 22 | [Decorators and Generators](#) | coming soon.... | coming soon.... |
+| 23 | [Working with Math Functions - using built-in math module](#) | coming soon.... | coming soon.... |
+| 24 | [Working with Random Numbers - using built-in random module](#) | coming soon.... | coming soon.... |
+| 25 | [Working with Dates and Times - using built-in datetime module](#) | coming soon.... | coming soon.... |
+
+## Week 6 - Working with Data and Files in Python
+
+| DAY | TOPIC | TASK | ANSWER |
+| ------ | ------ | ------ | ------ |
+| 26 | [Working with CSV files - using built-in csv module](#) | coming soon.... | coming soon.... |
+| 27 | [Working with JSON data - using built-in json module](#) | coming soon.... | coming soon.... |
+| 28 | [Working with Images - using Pillow library](#) | coming soon.... | coming soon.... |
+| 29 | [Working with PDFs - using PyPDF2 library](#) | coming soon.... | coming soon.... |
+| 30 | [Project Day - build a small command-line application using Python](#) | coming soon.... | coming soon.... |
