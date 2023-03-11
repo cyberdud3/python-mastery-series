@@ -18,13 +18,13 @@
 
 </div>
 
-[Home](../README.md) | [Day 02 >>](../Day-02-Variables-and-Data-Types/assignment.MD)
+[🏠 Home ](../README.md) | [ Day 02 ➡️ ](../Day-02-Variables-and-Data-Types/assignment.MD)
 
 <div>
     <a target="_blank" href="https://medium.com/@cyberdud3/day-1-of-python-mastery-series-installation-and-setup-10fff32f354c">
         <img align="middle" width="100%"  src="../images/week-1/Introduction-to-Python-and-Installing-Python.jpg" />
     </a>
-</div>
+</div><br>
 
 This task involves installing Python and an IDE, setting up a project folder, and creating a Python file named `movie_recommendation.py` with a welcome message printed to the console.
 
@@ -33,6 +33,10 @@ This task involves installing Python and an IDE, setting up a project folder, an
 - Step 3: Create a Python file.
 - Step 4: Run the Python file.
 
+<br>
+
 ## 👉 [FIND THE SOLUTION HERE](./answer-with-explanation.MD) 👈
 
-[Home](../README.md) | [Day 02 >>](../Day-02-Variables-and-Data-Types/assignment.MD)
+<br>
+
+[🏠 Home ](../README.md) | [ Day 02 ➡️ ](../Day-02-Variables-and-Data-Types/assignment.MD)

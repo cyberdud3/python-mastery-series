@@ -1,4 +1,4 @@
-[Home](../README.md) | [Task >>](./assignment.MD)
+[🏠 Home ](../README.md) | [ Task ❓](./assignment.MD)
 
 # Day 1: Introduction to Python and Installing Python
 
@@ -31,10 +31,16 @@ This task involves installing Python and an IDE, setting up a project folder, an
 
 - In your IDE or command prompt, navigate to the project folder where you created the `movie_recommendation.py file`.
 - Run the file by typing `python movie_recommendation.py` in the command prompt, or by clicking the Run button in your IDE.
-- If everything is set up correctly, you should see the welcome message printed to the console. 
+- If everything is set up correctly, you should see the welcome message printed to the console.
+
+    ![output](./movie_recommendation/output.png "output")
 
 That's it for Day 1! You've installed Python and an IDE, set up a project folder, created a Python file, and printed a welcome message to the console. You're now ready to move on to Day 2 and start working with variables and data types in Python.
 
-### 🎉 CONGRATULATIONS ! 🎉
+<br>
 
-[Home](../README.md) | [Task >>](./assignment.MD)
+## 🎉 CONGRATULATIONS! 🎉
+
+<br>
+
+[🏠 Home ](../README.md) | [ Task ❓](./assignment.MD)

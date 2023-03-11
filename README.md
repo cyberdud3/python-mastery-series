@@ -28,8 +28,8 @@
 
 | DAY | TOPIC | TASK | ANSWER |
 | ------ | ------ | ------ | ------ |
-| 01 | [Introduction to Python and Installing Python](#) | coming soon.... | coming soon.... |
-| 02 | [Variables and Data Types](#) | coming soon.... | coming soon.... |
+| 01 | [Introduction to Python and Installing Python](https://medium.com/@cyberdud3/day-1-of-python-mastery-series-installation-and-setup-10fff32f354c) | [Find your task here](./Day-01-Introduction-to-Python-and-Installing-Python/assignment.MD) | [Click here for Solution](./Day-01-Introduction-to-Python-and-Installing-Python/answer-with-explanation.MD) |
+| 02 | [Variables and Data Types](#) | [Find your task here](./Day-02-Variables-and-Data-Types/assignment.MD) | [Click here for Solution](./Day-02-Variables-and-Data-Types/answer-with-explanation.MD) |
 | 03 | [Operators and Expressions](#) | coming soon.... | coming soon.... |
 | 04 | [Conditional Statements](#) | coming soon.... | coming soon.... |
 | 05 | [Loops](#) | coming soon.... | coming soon.... |
